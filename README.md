@@ -150,13 +150,16 @@ Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me form�
 
 ### 📊 GitHub Stats
 
+<h3 align="center">📊 Mis Estadísticas</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junkamilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkamilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=junkamilo&style=flat-square&color=blue" alt="Profile views" />
 </div>
