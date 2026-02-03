@@ -21,13 +21,12 @@
 </div>
 </div>
 
----
 
 ### 🚀 Sobre mí
 
 "Tecnólogo en Análisis y Desarrollo de Software (SENA) enfocado en Frontend Moderno y Experiencia de Usuario (UX).
 
-Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me formó para escribir código limpio, predecible y libre de errores. Complemento mi perfil con bases sólidas en Backend y Bases de Datos, permitiéndome entender y construir soluciones web integrales que funcionan tan bien como se ven."
+Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me formó para escribir código limpio, predecible y libre de errores. Complemento mi perfil con bases sólidas en Backend y Bases de Datos, permitiéndome entender y construir soluciones web integrales robustas, escalables y de alto rendimiento."
 
 ---
 
