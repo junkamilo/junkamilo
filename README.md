@@ -72,9 +72,10 @@ Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me form�
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
           <br/>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         </p>
-        <a href="URL_DEL_REPO_MUSIC">🔗 <strong>Ver Código</strong></a>
+        <a href="https://github.com/junkamilo/MusicApp.git">🔗 <strong>Ver Código</strong></a>
       </td>
       <td width="50%" align="center" valign="top">
         <h3>🛍️ Variedades Lili (Admin)</h3>
@@ -84,10 +85,13 @@ Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me form�
           <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
           <br/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
           <img src="https://img.shields.io/badge/Multer-orange?style=flat" />
         </p>
-        <a href="URL_DEL_REPO_ADMIN">🔗 <strong>Ver Código</strong></a>
+        <a href="https://github.com/junkamilo/Proyectos/tree/main/variedadesLili">🔗 <strong>Ver Código</strong></a>
       </td>
     </tr>
   </table>
@@ -105,7 +109,7 @@ Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me form�
           <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
         </p>
-        <a href="URL_DEL_REPO_CLIENT">🔗 <strong>Ver Código</strong></a>
+        <a href="https://github.com/junkamilo/Proyectos/tree/main/VariedadesLiliCLientes/VariedadeLiliClientes_Frontend">🔗 <strong>Ver Código</strong></a>
       </td>
       <td width="50%" align="center" valign="top">
         <h3>🍽️ Restaurant System</h3>
@@ -117,7 +121,7 @@ Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me form�
           <img src="https://img.shields.io/badge/Swing-GUI-red?style=flat" />
           <img src="https://img.shields.io/badge/POO-Pattern-blue?style=flat" />
         </p>
-        <a href="URL_DEL_REPO_RESTAURANT">🔗 <strong>Ver Código</strong></a>
+        <a href="https://github.com/junkamilo/RestauranteApp.git">🔗 <strong>Ver Código</strong></a>
       </td>
     </tr>
   </table>
@@ -135,7 +139,7 @@ Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me form�
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
         </p>
-        <a href="URL_DEL_REPO_URBAN">🔗 <strong>Ver Código</strong></a>
+        <a href="https://github.com/junkamilo/Next.js/tree/main/Next/shop-urban-clothing">🔗 <strong>Ver Código</strong></a>
       </td>
     </tr>
   </table>
