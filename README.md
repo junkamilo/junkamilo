@@ -1,9 +1,9 @@
 <div align="center">
   
-  <h1 align="center">👨‍💻 Hola, soy JunkaMilo</h1>
+  <h1 align="center">👨‍💻 Hola, soy Juan Camilo</h1>
   
   <h3 align="center">
-    ✨ Frontend Developer Junior | Creando experiencias web únicas
+    Software Developer | Frontend & QA Testing
   </h3>
 
   <p align="center">
@@ -23,7 +23,9 @@
 
 ### 🚀 Sobre mí
 
-Soy un apasionado desarrollador Frontend con un enfoque en crear interfaces limpias, responsivas y amigables. Me encanta aprender nuevas tecnologías y convertir diseños estáticos en aplicaciones vivas. Actualmente estoy profundizando en el ecosistema de **React** y explorando el mundo del Backend para convertirme en un desarrollador integral.
+"Tecnólogo en Análisis y Desarrollo de Software (SENA) enfocado en Frontend Moderno y Experiencia de Usuario (UX).
+
+Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me formó para escribir código limpio, predecible y libre de errores. Complemento mi perfil con bases sólidas en Backend y Bases de Datos, permitiéndome entender y construir soluciones web integrales que funcionan tan bien como se ven."
 
 ---
 
