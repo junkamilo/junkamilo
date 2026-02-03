@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Juan Camilo Beltrán</h1>
-  <h3>Frontend Developer | Ex-QA @ Rappi</h3>
+  <h3>Software Developer | Frontend & QA Testing</h3>
   <p>
     <em>Transformando criterios de calidad en código eficiente y escalable.</em>
   </p>
@@ -21,10 +21,9 @@
 ---
 
 ### 👨‍💻 Sobre mí
+"Soy Tecnólogo en Análisis y Desarrollo de Software (SENA) especializado en Frontend Moderno. Mi perfil se distingue por mi trayectoria previa en QA y Testing en Rappi, experiencia que me entrenó para escribir código predecible, detectar casos borde anticipadamente y blindar la calidad del producto.
 
-Soy un Desarrollador de Software con una trayectoria única: **mi background en QA y Testing en entornos de alto rendimiento (Rappi)**. Esta experiencia me ha entrenado para escribir código predecible, detectar casos borde antes de que ocurran y priorizar la experiencia de usuario final.
-
-Actualmente, construyo aplicaciones web modernas utilizando el ecosistema de **React y Node.js**, enfocándome en arquitectura limpia y rendimiento.
+Actualmente, aplico esa mentalidad analítica construyendo aplicaciones web robustas y de alto rendimiento con el ecosistema de React y Node.js."
 
 ---
 
@@ -42,7 +41,7 @@ Diseño mis soluciones utilizando tecnologías probadas y modernas:
 
 ---
 
-### 🧩 Enfoque de Ingeniería
+### 🧩 Enfoque de Tecnologico
 
 Mi transición de QA a Desarrollo define cómo escribo código hoy:
 
