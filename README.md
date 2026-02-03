@@ -6,17 +6,19 @@
     Software Developer | Frontend & QA Testing
   </h3>
 
-  <p align="center">
-    <a href="[https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/juan-camilo-beltr%C3%A1n-campo-4aa1b3202/?trk=public-profile-join-page)" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="[https://TU_PORTAFOLIO.com](https://mi-portafolio-sigma-wheat.vercel.app/)" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="mailto:juancamilo.campobarrios@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/juan-camilo-beltr%C3%A1n-campo-4aa1b3202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://mi-portafolio-sigma-wheat.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:juancamilo.campobarrios@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 </div>
 
 ---
