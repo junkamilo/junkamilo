@@ -41,7 +41,7 @@ Diseño mis soluciones utilizando tecnologías probadas y modernas:
 
 ---
 
-### 🧩 Enfoque de Tecnologico
+### 🧩 Enfoque Tecnologico
 
 Mi transición de QA a Desarrollo define cómo escribo código hoy:
 
