@@ -1,165 +1,84 @@
 <div align="center">
-  
-  <h1 align="center">👨‍💻 Hola, soy Juan Camilo</h1>
-  
-  <h3 align="center">
-    Software Developer | Frontend & QA Testing
-  </h3>
+  <h1>Juan Camilo Beltrán</h1>
+  <h3>Frontend Developer | Ex-QA @ Rappi</h3>
+  <p>
+    <em>Transformando criterios de calidad en código eficiente y escalable.</em>
+  </p>
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/juan-camilo-beltr%C3%A1n-campo-4aa1b3202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://mi-portafolio-sigma-wheat.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-
-  <a href="mailto:juancamilo.campobarrios@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-</div>
-
-
-### 🚀 Sobre mí
-
-"Tecnólogo en Análisis y Desarrollo de Software (SENA) enfocado en Frontend Moderno y Experiencia de Usuario (UX).
-
-Mi diferencial radica en mi trayectoria en QA y Testing (Rappi), lo que me formó para escribir código limpio, predecible y libre de errores. Complemento mi perfil con bases sólidas en Backend y Bases de Datos, permitiéndome entender y construir soluciones web integrales robustas, escalables y de alto rendimiento."
-
----
-
-### 🛠️ Mi Arsenal Tecnológico
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT_BASH-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+  <p>
+    <a href="https://www.linkedin.com/in/juan-camilo-beltr%C3%A1n-campo-4aa1b3202/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://mi-portafolio-sigma-wheat.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:juancamilo.campobarrios@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+### 👨‍💻 Sobre mí
 
-<div align="center">
+Soy un Desarrollador de Software con una trayectoria única: **mi background en QA y Testing en entornos de alto rendimiento (Rappi)**. Esta experiencia me ha entrenado para escribir código predecible, detectar casos borde antes de que ocurran y priorizar la experiencia de usuario final.
 
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🎧 Music Streaming Platform</h3>
-        <p><em>Plataforma MVC de streaming y publicación de audio</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-          <br/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        </p>
-        <a href="https://github.com/junkamilo/MusicApp.git">🔗 <strong>Ver Código</strong></a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🛍️ Variedades Lili (Admin)</h3>
-        <p><em>Dashboard administrativo con gestión de inventario</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-          <br/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-          <img src="https://img.shields.io/badge/Multer-orange?style=flat" />
-        </p>
-        <a href="https://github.com/junkamilo/Proyectos/tree/main/variedadesLili">🔗 <strong>Ver Código</strong></a>
-      </td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🛒 Variedades Lili (Client)</h3>
-        <p><em>E-commerce SPA moderno y responsivo</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-          <br/>
-          <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        </p>
-        <a href="https://github.com/junkamilo/Proyectos/tree/main/VariedadesLiliCLientes/VariedadeLiliClientes_Frontend">🔗 <strong>Ver Código</strong></a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🍽️ Restaurant System</h3>
-        <p><em>Sistema de gestión de mesas y pedidos (Desktop)</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-          <br/>
-          <img src="https://img.shields.io/badge/Swing-GUI-red?style=flat" />
-          <img src="https://img.shields.io/badge/POO-Pattern-blue?style=flat" />
-        </p>
-        <a href="https://github.com/junkamilo/RestauranteApp.git">🔗 <strong>Ver Código</strong></a>
-      </td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <h3>👟 Urban Shop | Full Stack E-commerce</h3>
-        <p><em>Tienda de alto rendimiento con renderizado híbrido y pagos</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        </p>
-        <a href="https://github.com/junkamilo/Next.js/tree/main/Next/shop-urban-clothing">🔗 <strong>Ver Código</strong></a>
-      </td>
-    </tr>
-  </table>
-
-</div>
+Actualmente, construyo aplicaciones web modernas utilizando el ecosistema de **React y Node.js**, enfocándome en arquitectura limpia y rendimiento.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<h3 align="center">📊 Mis Estadísticas</h3>
+Diseño mis soluciones utilizando tecnologías probadas y modernas:
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend Core** | React, Next.js, TypeScript, JavaScript (ES6+) |
+| **UI & Styling** | Tailwind CSS, CSS Modules, Responsive Design |
+| **Backend & API** | Node.js, NestJS, Express, RESTful APIs |
+| **Data & Core** | PostgreSQL, MySQL, MongoDB, Java (POO) |
+| **DevOps & Tools** | Docker, Git/GitHub, CI/CD Concepts, Jest (Testing) |
+
+---
+
+### 🧩 Enfoque de Ingeniería
+
+Mi transición de QA a Desarrollo define cómo escribo código hoy:
+
+* **Defensive Programming:** Valido entradas y gestiono errores explícitamente; no asumo el "happy path".
+* **Componentes Atómicos:** Construyo interfaces modulares fáciles de testear y reutilizar.
+* **Tipado Estricto:** Uso TypeScript para reducir bugs en tiempo de ejecución y mejorar la mantenibilidad.
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 👟 Urban Shop | E-commerce Full Stack
+> *Una plataforma de comercio electrónico de alto rendimiento con renderizado híbrido.*
+
+* **El Reto:** Crear una experiencia de compra fluida con gestión de estado global y persistencia de datos.
+* **La Solución:** Implementación de **Next.js** para SEO y SSR, con **Prisma + PostgreSQL** para manejar relaciones complejas de inventario y pedidos.
+* **Stack:** Next.js, TypeScript, Tailwind, Prisma, PostgreSQL.
+* <a href="https://github.com/junkamilo/Next.js/tree/main/Next/shop-urban-clothing">📂 <strong>Ver Arquitectura y Código</strong></a>
+
+#### 🛒 Variedades Lili | Sistema de Gestión & Cliente
+> *Ecosistema digital completo: Dashboard Administrativo + Tienda SPA.*
+
+* **El Reto:** Sincronizar inventario en tiempo real entre el panel de administración y la vista del cliente.
+* **La Solución:** Arquitectura separada (Backend API REST en **Node/Express**) consumida por dos frontends distintos (**React/Vite**), asegurando escalabilidad independiente.
+* **Stack:** React, Node.js, Express, MySQL, Multer (Manejo de imágenes).
+* <a href="https://github.com/junkamilo/Proyectos/tree/main/variedadesLili">📂 <strong>Ver Backend (Admin)</strong></a> • <a href="https://github.com/junkamilo/Proyectos/tree/main/VariedadesLiliCLientes/VariedadeLiliClientes_Frontend">💻 <strong>Ver Frontend (Cliente)</strong></a>
+
+#### 🎧 Music Streaming MVP
+> *Plataforma MVC para streaming de audio.*
+
+* **Arquitectura:** Modelo-Vista-Controlador (MVC) clásico para separar lógica de negocio e interfaz.
+* **Stack:** Node.js, MySQL, Vanilla JS.
+* <a href="https://github.com/junkamilo/MusicApp.git">📂 <strong>Ver Repositorio</strong></a>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junkamilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkamilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=junkamilo&style=flat-square&color=blue" alt="Profile views" />
+  <p><em>"Quality is not an act, it is a habit."</em></p>
 </div>
